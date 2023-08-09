@@ -41,7 +41,7 @@ Things you may want to cover:
 
 ## rooms テーブル
 
-| Column | Type   | Options     |
+| Column | Type   | Options     | 
 | ------ | ------ | ----------- |
 | name   | string | null: false |
 
